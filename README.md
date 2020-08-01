@@ -6,5 +6,4 @@
 ### Code for Text Recognition: refer to CNN_LSTM_CTC.ipynb
 
 
-
-
+### YouTube link: https://www.youtube.com/watch?v=kURGWG1yIxs
