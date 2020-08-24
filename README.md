@@ -1,5 +1,10 @@
 # spark-ai_summit_2020
 
+## Update 24th Aug
+Report published at Weights & Biases: https://app.wandb.ai/authors/text-recognition-crnn-ctc/reports/Text-Recognition-with-CRNN-CTC-Network--VmlldzoxNTI5NDI
+Refer to CRNN_CTC_wandb.ipynb for the code.
+
+
 
 ### For PPT refer to : Slides_for_Spark_AI_TE.pdf
 ### Dataset used for training text recognition model: Subset of MJSYNTH (https://www.robots.ox.ac.uk/~vgg/data/text/mjsynth.tar.gz )
