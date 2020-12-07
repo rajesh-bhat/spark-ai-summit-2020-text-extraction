@@ -1,3 +1,6 @@
+### Update Dec 8th:
+#### Speaking at Open Data Science Conference (ODSC): https://odsc.com/speakers/text-extraction-from-images-using-deep-learning-techniques/
+
 ### Update 24th Aug
 #### Report published at Weights & Biases: https://app.wandb.ai/authors/text-recognition-crnn-ctc/reports/Text-Recognition-with-CRNN-CTC-Network--VmlldzoxNTI5NDI
 #### Refer to CRNN_CTC_wandb.ipynb for the code: https://github.com/rajesh-bhat/spark-ai-summit-2020-text-extraction/blob/master/CRNN_CTC_wandb.ipynb
